@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\Music3\Music3\bin\Debug\netcoreapp1.1\Music3.deps.json
+c:\users\admin\documents\visual studio 2017\Projects\Music3\Music3\bin\Debug\netcoreapp1.1\Music3.runtimeconfig.json
+c:\users\admin\documents\visual studio 2017\Projects\Music3\Music3\bin\Debug\netcoreapp1.1\Music3.runtimeconfig.dev.json
+c:\users\admin\documents\visual studio 2017\Projects\Music3\Music3\bin\Debug\netcoreapp1.1\Music3.dll
+c:\users\admin\documents\visual studio 2017\Projects\Music3\Music3\obj\Debug\netcoreapp1.1\Music3.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\Music3\Music3\obj\Debug\netcoreapp1.1\Music3.AssemblyInfo.cs
+c:\users\admin\documents\visual studio 2017\Projects\Music3\Music3\bin\Debug\netcoreapp1.1\Music3.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Music3\Music3\obj\Debug\netcoreapp1.1\Music3.dll
+c:\users\admin\documents\visual studio 2017\Projects\Music3\Music3\obj\Debug\netcoreapp1.1\Music3.pdb
