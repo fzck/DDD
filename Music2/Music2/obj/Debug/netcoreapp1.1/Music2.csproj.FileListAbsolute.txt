@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Music2\Music2\bin\Debug\netcoreapp1.1\Music2.deps.json
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Music2\Music2\bin\Debug\netcoreapp1.1\Music2.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Music2\Music2\obj\Debug\netcoreapp1.1\Music2.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Music2\Music2\obj\Debug\netcoreapp1.1\Music2.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Music2\Music2\bin\Debug\netcoreapp1.1\Music2.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Music2\Music2\obj\Debug\netcoreapp1.1\Music2.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Music2\Music2\obj\Debug\netcoreapp1.1\Music2.pdb

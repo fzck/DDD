@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  musicapp:
+    image: musicapp
+    build:
+      context: ./MusicApp
+      dockerfile: Dockerfile
