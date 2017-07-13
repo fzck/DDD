@@ -59,7 +59,7 @@ namespace FedApi.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetAuthor(long id)
+        public IActionResult GetArtist(long id)
         {
             try
             {
@@ -110,7 +110,7 @@ namespace FedApi.Controllers
             }
             catch (ArgumentException e)
             {
-                log.LogError("Error on updating author: " + e.Message);
+                log.LogError("Error on updating artist: " + e.Message);
                 return NotFound(StatusCodes.Status404NotFound);
             }
             catch (Exception e)
