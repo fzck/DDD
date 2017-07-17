@@ -1,0 +1,15 @@
+Microsoft.EntityFrameworkCore.DbUpdateException occurred
+  HResult=0x80131500
+  Message=An error occurred while updating the entries. See the inner exception for details.
+  Source=<Cannot evaluate the exception source>
+  StackTrace:
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(Tuple`2 parameters)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IReadOnlyList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Music3.Infrastructure.UnitOfWork.ThirdGenUnitOfWork.Commit() in D:\2017\OJT\Despacito\Music3\Music3\Infrastructure\UnifOfWork\ThirdGenUnitOfWork.cs:line 124
+   at Music3.Infrastructure.Repositories.ArtistRepository.Add(Artist entity) in D:\2017\OJT\Despacito\Music3\Music3\Infrastructure\Repositories\ArtistRepository.cs:line 40
+   at Music3.Application.ArtistService.CreateArtist(ArtistDto artistDto) in D:\2017\OJT\Despacito\Music3\Music3\Application\ArtistService.cs:line 31
+   at FedApi.Controllers.ArtistController.CreateArtist() in D:\2017\OJT\Despacito\Music3\FedApi\Controllers\ArtistController.cs:line 33
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__27.MoveNext()
